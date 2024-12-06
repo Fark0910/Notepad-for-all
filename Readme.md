@@ -1,0 +1,1 @@
+A Simple notepad using tkinter as the core library..
